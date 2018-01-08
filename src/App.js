@@ -10,7 +10,7 @@ class App extends Component {
          <div>
             <div className="head">
                <div> Front-end-Developer Test Task</div>
-               <div>корзина</div>
+               <div>cart <span className="icon-basket-loaded"></span></div>
             </div>
             <div className="container">
                <div className="app">

@@ -1,4 +1,4 @@
-[ДЕМО](http://ya.ru) 
+[ДЕМО](http://fmap.ru/games/game/helvi/) 
 ======
 react + redux + thrunk + axios + composeWithDevTools
 
@@ -7,3 +7,7 @@ react + redux + thrunk + axios + composeWithDevTools
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
+  
+  
+  проект на node 6.9.4
+  чтобы переключиться между версиями node, есть nvm
