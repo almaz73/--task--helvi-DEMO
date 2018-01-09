@@ -16,16 +16,12 @@ class App extends Component {
                <div className="app">
                   <div className="app-left">
                      <div className="app-left-content">
-                        <div className="road"> Shipping > Billing > Payment</div>
-                        <div>
-                           <LeftArea/>
-                        </div>
+                        <LeftArea/>
                      </div>
                   </div>
                   <div className="app-right">
                      <div className="app-right-content">
                         <RightArea/>
-
                      </div>
                   </div>
                </div>

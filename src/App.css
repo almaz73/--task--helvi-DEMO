@@ -13,10 +13,9 @@
 
 .blue {
     color: #7b40a9;
-    font-weight: bold;
 }
 
-.head div:first-child {
+.head div:first-child , .floatleft{
     float: left;
 }
 
@@ -27,7 +26,7 @@
 .container {
     margin: 0 auto;
     background: #e6e9f0;
-    width: 800px;
+    width: 870px;
     height: 500px;
     position: relative;
     display: flex;
