@@ -76,6 +76,11 @@
     text-align: center;
     cursor: pointer;
 }
+.button:active{
+    margin-top: 6px;
+    margin-bottom: -1px;
+    background: #7b50b9;
+}
 
 .rightarea-float {
     margin: 5px 0;
