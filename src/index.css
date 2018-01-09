@@ -1,24 +1,19 @@
 body {
     padding: 50px;
-    font-family: HelveticaNeue-Light, sans-serif;
+    font-family: HelveticaLight, sans-serif;
 }
 
 @font-face {
-    font-family: 'HelveticaNeue-Light';
-    src: local('HelveticaNeue-Light'), url(./assets/fonts/HelveticaNeue-Light.woff) format('woff');
+    font-family: 'HelveticaLight';
+    src: local('HelveticaLight'), url(./assets/fonts/HelveticaLight.woff) format('woff');
 }
 
 @font-face {
-    font-family: 'HelveticaNeue-Light';
-    src: local('HelveticaNeue-Light'), url(./assets/fonts/HelveticaNeue-Light.ttf) format('ttf');
+    font-family: 'HelveticaLight';
+    src: local('HelveticaLight'), url(./assets/fonts/HelveticaLight.ttf) format('ttf');
 }
 
 @font-face {
-    font-family: 'HelveticaNeue-Light';
-    src: local('HelveticaNeue-Light'), url(./assets/fonts/HelveticaNeue-Light.svg) format('svg');
-}
-
-@font-face {
-    font-family: 'HelveticaNeue-Light';
-    src: local('HelveticaNeue-Light'), url(./assets/fonts/HelveticaNeue-Light.eot) format('eot');
+    font-family: 'HelveticaLight';
+    src: local('HelveticaLight'), url(./assets/fonts/HelveticaLight.eot) format('eot');
 }

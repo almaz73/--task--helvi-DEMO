@@ -10,7 +10,7 @@ class App extends Component {
          <div>
             <div className="head">
                <div> Front-end-Developer Test Task</div>
-               <div>cart <span className="icon-basket-loaded"></span></div>
+               <div>cart <span className="icon-basket-loaded"/></div>
             </div>
             <div className="container">
                <div className="app">
@@ -25,7 +25,7 @@ class App extends Component {
                   <div className="app-right">
                      <div className="app-right-content">
                         <RightArea/>
-                        <div className="hr"/>
+
                      </div>
                   </div>
                </div>

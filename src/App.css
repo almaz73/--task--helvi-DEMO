@@ -2,12 +2,18 @@
     width: 100%;
     height: 1px;
     background: #ddd;
+    clear: both;
 }
 
 .head {
     width: 800px;
     margin: 0 auto;
     position: relative;
+}
+
+.blue {
+    color: #7b40a9;
+    font-weight: bold;
 }
 
 .head div:first-child {
@@ -25,6 +31,7 @@
     height: 500px;
     position: relative;
     display: flex;
+    color: #808080;
 }
 
 .app {
@@ -69,4 +76,30 @@
     background: #7b40a9;
     text-align: center;
     cursor: pointer;
+}
+
+.rightarea-float {
+    margin: 5px 0;
+    float: left;
+}
+
+.rightarea-float.discriptions {
+    float: left;
+    font-size: 11px;
+    margin-left: 8px;
+    max-width: 110px;
+}
+
+.rightarea-float.sum {
+    float: right;
+}
+
+.order {
+    float: right;
+    text-decoration: underline;
+
+}
+
+.order + span {
+    clear: both;
 }
