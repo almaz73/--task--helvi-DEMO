@@ -15,7 +15,7 @@
     color: #7b40a9;
 }
 
-.head div:first-child , .floatleft{
+.head div:first-child, .floatleft {
     float: left;
 }
 
@@ -67,16 +67,18 @@
 
 .button {
     border: 1px solid #eee;
-    border-radius: 4px;
-    padding: 12px;
+    border-radius: 6px;
+    padding: 13px 0;
     margin-top: 5px;
     min-height: 20px;
     color: white;
     background: #7b40a9;
     text-align: center;
     cursor: pointer;
+    width: 180px;
 }
-.button:active{
+
+.button:active {
     margin-top: 6px;
     margin-bottom: -1px;
     background: #7b50b9;
