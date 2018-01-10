@@ -8,10 +8,6 @@ class App extends Component {
    render () {
       return (
          <div>
-            <div className="head">
-               <div> Front-end-Developer Test Task</div>
-               <div>cart <span className="icon-basket-loaded"/></div>
-            </div>
             <div className="container">
                <div className="app">
                   <div className="app-left">

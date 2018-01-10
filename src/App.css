@@ -5,22 +5,12 @@
     clear: both;
 }
 
-.head {
-    width: 800px;
-    margin: 0 auto;
-    position: relative;
-}
-
 .blue {
     color: #7b40a9;
 }
 
-.head div:first-child, .floatleft {
+.floatleft {
     float: left;
-}
-
-.head div:last-child {
-    float: right;
 }
 
 .container {
