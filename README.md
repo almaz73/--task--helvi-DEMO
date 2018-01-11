@@ -1,4 +1,4 @@
-[ДЕМО](http://fmap.ru/games/game/helvi/) 
+&#9822; [ДЕМО](http://fmap.ru/games/game/helvi/) 
 ======
 react + redux + thrunk + axios + composeWithDevTools
 
