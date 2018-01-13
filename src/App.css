@@ -1,3 +1,7 @@
+.hide {
+    display: none
+}
+
 .hr {
     width: 100%;
     height: 1px;
@@ -93,7 +97,6 @@
 .order {
     float: right;
     text-decoration: underline;
-
 }
 
 .order + span {
